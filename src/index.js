@@ -1,7 +1,7 @@
 import "./styles.css";
 const myMixin = {
   name: "ganesh",
-  mobile: "9052040609"
+  mobile: "9052040608"
 };
 function demoOne() {
   this.tempFunc = () => {
